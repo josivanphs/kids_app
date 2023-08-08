@@ -1,4 +1,4 @@
-# kids_app
+# Onboard de aplicativos
 
 A new Flutter project.
 
